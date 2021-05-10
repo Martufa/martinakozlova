@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://raw.githubusercontent.com/Martufa/DGP/visuals/c1.png) and ![Image](https://raw.githubusercontent.com/Martufa/DGP/visuals/c1.png)
+[Link](https://raw.githubusercontent.com/Martufa/DGP/visuals/c1.png) and ![Image](425f9c10681173.560e91e7d2ce4.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
